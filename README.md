@@ -1,4 +1,4 @@
-# Generalized_Discriminant_Analysis
+# Generalized Discriminant Analysis
  
 GDA Performs Generalized Discriminant Analysis, a non-linear feature dimensionality reduction technique.
  
