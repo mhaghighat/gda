@@ -10,5 +10,5 @@ M. Haghighat, S. Zonouz, M. Abdel-Mottaleb, "CloudID: Trustworthy cloud-based an
 http://dx.doi.org/10.1016/j.eswa.2015.06.025
  
 (C)	Mohammad Haghighat, University of Miami 
-    haghighat@ieee.org 
-    PLEASE CITE THE ABOVE PAPER IF YOU USE THIS CODE. 
+    	haghighat@ieee.org 
+    	PLEASE CITE THE ABOVE PAPER IF YOU USE THIS CODE. 
