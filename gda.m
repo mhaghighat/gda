@@ -178,7 +178,7 @@ clear zeroMeanKtrain P gamma beta
 
 % Dimensionality reduction (if nDim is not given, nEig dimensions are retained):
 
-if (~exist('subDim','var'))
+if (~exist('nDim','var'))
    nDim = nEig;       % nEig is the maximum possible value (the rank of subspace)
 elseif (nDim > nEig)
    warning(['Target dimensionality reduced to ' num2str(nEig) '.']);
